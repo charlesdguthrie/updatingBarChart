@@ -29,11 +29,11 @@ h1 {
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
-h2, .gauge {
+h2 {
 	font-size: 125%;
    font-weight: 300;
    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-	text-align: center;
+	text-align: left;
 	margin-bottom: 0px;
 }
 h3, .gaugePct {
