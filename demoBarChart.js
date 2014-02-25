@@ -5,21 +5,21 @@ NYTD.xStream = NYTD.xStream || {};
 NYTD.xStream.demo = (function () {
 
 	var data = [
-		{key:"Article 1", value:99},
-		{key:"Article 2", value:78},
-		{key:"Article 3", value:77},
-		{key:"Article 4", value:64},
-		{key:"Article 5", value:35},
-		{key:"Article 6", value:33},
-		{key:"Article 7", value:29},
-		{key:"Article 8", value:28},
-		{key:"Article 9", value:25},
-		{key:"Article 10", value:21},
-		{key:"Article 11", value:19},
-		{key:"Article 12", value:18},
-		{key:"Article 13", value:15},
-		{key:"Article 14", value:14},
-		{key:"Article 15", value:11}
+		{key:"Item 1", value:99},
+		{key:"Item 2", value:78},
+		{key:"Item 3", value:77},
+		{key:"Item 4", value:64},
+		{key:"Item 5", value:35},
+		{key:"Item 6", value:33},
+		{key:"Item 7", value:29},
+		{key:"Item 8", value:28},
+		{key:"Item 9", value:25},
+		{key:"Item 10", value:21},
+		{key:"Item 11", value:19},
+		{key:"Item 12", value:18},
+		{key:"Item 13", value:15},
+		{key:"Item 14", value:14},
+		{key:"Item 15", value:11}
 	]
 
 	var updateData = function(data){
